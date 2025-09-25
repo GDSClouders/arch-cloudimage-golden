@@ -1,0 +1,2 @@
+# Arch CloudImage Golden
+> An **Arch Linux cloud image** template consumable by **Cluster API (CAPI)** providers (e.g., Proxmox/Hetzner) so can provision clusters with Arch-based nodes via MachineTemplates.
